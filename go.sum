@@ -1,0 +1,4 @@
+github.com/inovacc/cron v0.0.0-20240628230802-1735fdd38752 h1:HUAue7ee99743tf5jTfvFzhFBdrcjIH9ew8U4wr+2wM=
+github.com/inovacc/cron v0.0.0-20240628230802-1735fdd38752/go.mod h1:bC6qlt9Rv/UbEEGPVso5kE/0Je70hJN+X3aldinbWNY=
+gopkg.in/natefinch/lumberjack.v2 v2.2.1 h1:bBRl1b0OH9s/DuPhuXpNl+VtCaJXFZ5/uEFST95x9zc=
+gopkg.in/natefinch/lumberjack.v2 v2.2.1/go.mod h1:YD8tP3GAjkrDg1eZH7EGmyESg/lsYskCTPBJVb9jqSc=
